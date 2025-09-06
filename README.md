@@ -1,4 +1,4 @@
-# 🚀 Flappy Space Ball 🔥
+# 🚀 Flappy Space Ball🔥
 
 Flappy Space Ball is a **fun and stylish Python game built using Pygame.  
 Navigate your space ball through pipes, dodge obstacles, and aim for the highest score!  
