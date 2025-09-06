@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ----------------------------------------------------------------
 
-Run the game:
+## 🎮 Run the game
 
 python app.py
 
@@ -47,14 +47,14 @@ SHIFT → Retry after game over
 
 ----------------------------------------------------------------
 
-💡 Code Overview
+💡 code overview
 app.py → Main game file with player, pipes, score system, intro and game over screens
 
 requirements.txt → Pygame dependency
 
 ----------------------------------------------------------------
 
-✍️ Author
+✍️ author
 Built by @Atharva Chavhan
 
 ----------------------------------------------------------------
