@@ -1,4 +1,4 @@
-# 🚀 Flappy Space Ball Game 🔥
+# 🚀 Flappy Space Ball 🔥
 
 Flappy Space Ball is a **fun and stylish Python game built using Pygame.  
 Navigate your space ball through pipes, dodge obstacles, and aim for the highest score!  
@@ -31,13 +31,13 @@ pip install -r requirements.txt
 
 ----------------------------------------------------------------
 
-## 🎮 Run the game
+## ▶️ Run the game
 
 python app.py
 
 ----------------------------------------------------------------
 
-## Controls
+## 🎮 Controls
 
 SPACE / UP arrow → Jump
 
@@ -47,14 +47,14 @@ SHIFT → Retry after game over
 
 ----------------------------------------------------------------
 
-💡 code overview
+## 💡 Code overview
 app.py → Main game file with player, pipes, score system, intro and game over screens
 
 requirements.txt → Pygame dependency
 
 ----------------------------------------------------------------
 
-✍️ author
+## 👨‍💻 Author
 Built by @Atharva Chavhan
 
 ----------------------------------------------------------------
