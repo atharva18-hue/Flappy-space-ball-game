@@ -1,4 +1,4 @@
-# Flappy Space Ball
+# Flappy Space Ball game
 
 Run `app.py` using Python and Pygame.
 
