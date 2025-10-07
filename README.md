@@ -7,8 +7,7 @@ Flappy Space Ball is a super fun Python game made with Pygame. Guide your space 
 
 ## Project Video
 
-
-https://github.com/user-attachments/assets/c495f962-ffaf-4323-bf15-4cee424c1592
+https://github.com/user-attachments/assets/872d9eab-a653-4c73-a4bf-cc4a1cb092e9
 
 --------------------------------------------------------------------------------
 
